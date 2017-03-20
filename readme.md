@@ -1,16 +1,12 @@
-Simple Laravel Application showing use of Models and Sqlite Database through a Task
+Simple Laravel Application showing use of Models and Sqlite Database through a Task<br>
 ScreenShots
-![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s1.png)
+![alt tag](https://github.com/yo-akshay/Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/blob/master/s1.png)
 
-![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s2.png)
+![alt tag](https://github.com/yo-akshay/Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/blob/master/s2.png)
 
+![alt tag](https://github.com/yo-akshay/Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/blob/master/s3.png)
 
-![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s3.png)
-
-
-![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s4.png)
-
-
+![alt tag](https://github.com/yo-akshay/Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/blob/master/s4.png)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 

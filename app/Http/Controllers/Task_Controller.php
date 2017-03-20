@@ -36,44 +36,4 @@ class Task_Controller extends Controller
 			}
 		}
     }
-	
-	public function insert()
-    {
-		$Title = Input::get('Title');
-		$Completed = Input::get('Completed');
-		$Description = Input::get('Description');
-		$insert=DB::table('task')->insert(['Title' => $Title,'Completed' => $Completed,'Description'=> $Description,'created_at' => new DateTime ,'updated_at'=>new DateTime]);
-        if($insert)
-			echo"Successfully inserted";
-		else
-			echo "error";
-    }
-	
-	public function del()
-    {
-		$title=Input::get('Title');
-		$flag=Task::where('title', $title)->delete();
-		if($flag)
-			echo "successfully deleted<br>";
-		else
-			echo  "error not deleted";
-    }
-	
-	public function update()
-    {
-		$id=Input::get('id');
-		$title=Input::get('Title');
-		$completed=Input::get('Completed');
-		$description=Input::get('Description');
-		$upd = array(
-         'title' => $title,
-         'completed' => $completed,
-		 'description' => $description
-		);
-		$flag = Task::find($id)->update($upd);
-		if($flag)
-			echo "successfully updated<br>";
-		else
-			echo  "error not updated";
-    }
 }

@@ -1,3 +1,17 @@
+Simple Laravel Application showing use of Models and Sqlite Database through a Task
+ScreenShots
+![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s1.png)
+
+![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s2.png)
+
+
+![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s3.png)
+
+
+![alt tag](Simple-Laravel-Application-showing-use-of-Models-and-Sqlite-Database-through-a-Task/s4.png)
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
